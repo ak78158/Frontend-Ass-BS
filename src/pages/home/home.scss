@@ -1,0 +1,20 @@
+.moviesList {
+  display: flex;
+  border: 1px solid black;
+  overflow: hidden;
+  overflow-x: scroll;
+}
+
+.myQueueList{
+  margin: 10px;
+}
+
+.fetchBtn{
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.fetchButton{
+  width: 100px;
+  height: 35px;
+}

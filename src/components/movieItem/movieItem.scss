@@ -1,0 +1,26 @@
+.starBtnContainer{
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+}
+
+.moviePoster{
+  width: 130px;
+  height: 150px;
+  object-fit: cover;
+  margin: 10px;
+  padding: 10px;
+}
+
+.movieItem{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 10px;
+  justify-content: end;
+}
+
+.movieTitle{
+  font-size: 13px;
+}
